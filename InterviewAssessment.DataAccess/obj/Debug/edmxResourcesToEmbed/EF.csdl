@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="mainModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="coord">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="x" Type="Int64" />
+    <Property Name="y" Type="Int64" />
+    <NavigationProperty Name="entities" Relationship="Self.FK_entities_0_0" FromRole="coords" ToRole="entities" />
+  </EntityType>
+  <EntityType Name="entity">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="coordsId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="coord" Relationship="Self.FK_entities_0_0" FromRole="entities" ToRole="coords" />
+  </EntityType>
+  <Association Name="FK_entities_0_0">
+    <End Role="coords" Type="Self.coord" Multiplicity="1" />
+    <End Role="entities" Type="Self.entity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="coords">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="entities">
+        <PropertyRef Name="coordsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EntitiesDbContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="coords" EntityType="Self.coord" />
+    <EntitySet Name="entities" EntityType="Self.entity" />
+    <AssociationSet Name="FK_entities_0_0" Association="Self.FK_entities_0_0">
+      <End Role="coords" EntitySet="coords" />
+      <End Role="entities" EntitySet="entities" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

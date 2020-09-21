@@ -1,0 +1,45 @@
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.Infrastructure.dll.config
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.Infrastructure.dll
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.DataAccess.dll
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.DataAccess.pdb
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.DataAccess.dll.config
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.csprojAssemblyReference.cache
+C:\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.csproj.CopyComplete
+C:\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.dll
+C:\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.Infrastructure.dll.config
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.Infrastructure.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.DataAccess.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.DataAccess.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.DataAccess.dll.config
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.csproj.CopyComplete
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.Infrastructure.dll.config
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.Infrastructure.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.DataAccess.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.DataAccess.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\InterviewAssessment.DataAccess.dll.config
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.csproj.CopyComplete
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment.Infrastructure\obj\Debug\InterviewAssessment.Infrastructure.pdb

@@ -1,0 +1,102 @@
+C:\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.csprojAssemblyReference.cache
+C:\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.csproj.CoreCompileInputs.cache
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessmentTests.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessmentTests.pdb
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Castle.Core.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\DomainModelEditor.exe
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.Infrastructure.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Moq.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.DataAccess.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\EntityFramework.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Autofac.dll
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.Infrastructure.dll.config
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\DomainModelEditor.pdb
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\DomainModelEditor.exe.config
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Castle.Core.xml
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Moq.xml
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.DataAccess.pdb
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.DataAccess.dll.config
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\EntityFramework.xml
+C:\Assessment2\InterviewAssessmentTests\bin\Debug\Autofac.xml
+C:\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.csproj.CopyComplete
+C:\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.dll
+C:\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessmentTests.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessmentTests.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Castle.Core.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\DomainModelEditor.exe
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.Infrastructure.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Moq.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.DataAccess.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\EntityFramework.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Autofac.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.Infrastructure.dll.config
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\DomainModelEditor.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\DomainModelEditor.exe.config
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Castle.Core.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Moq.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.DataAccess.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\InterviewAssessment.DataAccess.dll.config
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\EntityFramework.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\bin\Debug\Autofac.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.csprojAssemblyReference.cache
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.csproj.CoreCompileInputs.cache
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.csproj.CopyComplete
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\InterviewAssessmentTests.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\InterviewAssessmentTests.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Castle.Core.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\DomainModelEditor.exe
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\InterviewAssessment.Infrastructure.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Moq.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\InterviewAssessment.DataAccess.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\EntityFramework.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Autofac.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\InterviewAssessment.Infrastructure.dll.config
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\DomainModelEditor.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\DomainModelEditor.exe.config
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Castle.Core.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Moq.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\InterviewAssessment.DataAccess.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\InterviewAssessment.DataAccess.dll.config
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\EntityFramework.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\bin\Debug\Autofac.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.csprojAssemblyReference.cache
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.csproj.CoreCompileInputs.cache
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.csproj.CopyComplete
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.pdb

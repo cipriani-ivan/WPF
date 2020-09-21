@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="mainModel.Store" Provider="System.Data.SQLite.EF6" ProviderManifestToken="data source=C:\Assessment2\InterviewAssessment.DataAccess\entities.sqlite;version=3" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="coords">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="x" Type="integer" />
+          <Property Name="y" Type="integer" />
+        </EntityType>
+        <EntityType Name="entities">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="2147483647" />
+          <Property Name="coordsId" Type="integer" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_entities_0_0">
+          <End Role="coords" Type="Self.coords" Multiplicity="1" />
+          <End Role="entities" Type="Self.entities" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="coords">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="entities">
+              <PropertyRef Name="coordsId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="mainModelStoreContainer">
+          <EntitySet Name="coords" EntityType="Self.coords" store:Type="Tables" />
+          <EntitySet Name="entities" EntityType="Self.entities" store:Type="Tables" />
+          <AssociationSet Name="FK_entities_0_0" Association="Self.FK_entities_0_0">
+            <End Role="coords" EntitySet="coords" />
+            <End Role="entities" EntitySet="entities" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="mainModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="coord">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="x" Type="Int64" />
+          <Property Name="y" Type="Int64" />
+          <NavigationProperty Name="entities" Relationship="Self.FK_entities_0_0" FromRole="coords" ToRole="entities" />
+        </EntityType>
+        <EntityType Name="entity">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+          <Property Name="coordsId" Type="Int64" Nullable="false" />
+          <NavigationProperty Name="coord" Relationship="Self.FK_entities_0_0" FromRole="entities" ToRole="coords" />
+        </EntityType>
+        <Association Name="FK_entities_0_0">
+          <End Role="coords" Type="Self.coord" Multiplicity="1" />
+          <End Role="entities" Type="Self.entity" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="coords">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="entities">
+              <PropertyRef Name="coordsId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="EntitiesDbContext" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="coords" EntityType="Self.coord" />
+          <EntitySet Name="entities" EntityType="Self.entity" />
+          <AssociationSet Name="FK_entities_0_0" Association="Self.FK_entities_0_0">
+            <End Role="coords" EntitySet="coords" />
+            <End Role="entities" EntitySet="entities" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="mainModelStoreContainer" CdmEntityContainer="EntitiesDbContext">
+          <EntitySetMapping Name="coords">
+            <EntityTypeMapping TypeName="mainModel.coord">
+              <MappingFragment StoreEntitySet="coords">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="x" ColumnName="x" />
+                <ScalarProperty Name="y" ColumnName="y" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="entities">
+            <EntityTypeMapping TypeName="mainModel.entity">
+              <MappingFragment StoreEntitySet="entities">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="coordsId" ColumnName="coordsId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

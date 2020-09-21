@@ -1,0 +1,6 @@
+C:\Assessment2\InterviewAssessment.Model\bin\Debug\InterviewAssessment.Model.dll
+C:\Assessment2\InterviewAssessment.Model\bin\Debug\InterviewAssessment.Model.pdb
+C:\Assessment2\InterviewAssessment.Model\obj\Debug\InterviewAssessment.Model.csproj.CoreCompileInputs.cache
+C:\Assessment2\InterviewAssessment.Model\obj\Debug\InterviewAssessment.Model.dll
+C:\Assessment2\InterviewAssessment.Model\obj\Debug\InterviewAssessment.Model.pdb
+C:\Assessment2\InterviewAssessment.Model\obj\Debug\InterviewAssessment.Model.csprojAssemblyReference.cache

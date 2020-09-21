@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="mainModel.Store" Provider="System.Data.SQLite.EF6" ProviderManifestToken="data source=C:\Assessment2\InterviewAssessment.DataAccess\entities.sqlite;version=3" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="coords">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="x" Type="integer" />
+    <Property Name="y" Type="integer" />
+  </EntityType>
+  <EntityType Name="entities">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="coordsId" Type="integer" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_entities_0_0">
+    <End Role="coords" Type="Self.coords" Multiplicity="1" />
+    <End Role="entities" Type="Self.entities" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="coords">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="entities">
+        <PropertyRef Name="coordsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="mainModelStoreContainer">
+    <EntitySet Name="coords" EntityType="Self.coords" store:Type="Tables" />
+    <EntitySet Name="entities" EntityType="Self.entities" store:Type="Tables" />
+    <AssociationSet Name="FK_entities_0_0" Association="Self.FK_entities_0_0">
+      <End Role="coords" EntitySet="coords" />
+      <End Role="entities" EntitySet="entities" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,102 @@
+C:\Assessment2\InterviewAssessment\bin\Debug\DomainModelEditor.exe.config
+C:\Assessment2\InterviewAssessment\bin\Debug\DomainModelEditor.exe
+C:\Assessment2\InterviewAssessment\bin\Debug\DomainModelEditor.pdb
+C:\Assessment2\InterviewAssessment\bin\Debug\Autofac.dll
+C:\Assessment2\InterviewAssessment\bin\Debug\EntityFramework.dll
+C:\Assessment2\InterviewAssessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.DataAccess.dll
+C:\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.Infrastructure.dll
+C:\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.dll
+C:\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.DataAccess.pdb
+C:\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.DataAccess.dll.config
+C:\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.Infrastructure.dll.config
+C:\Assessment2\InterviewAssessment\bin\Debug\Autofac.xml
+C:\Assessment2\InterviewAssessment\bin\Debug\EntityFramework.xml
+C:\Assessment2\InterviewAssessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.xml
+C:\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.dll.config
+C:\Assessment2\InterviewAssessment\obj\Debug\InterviewAssessment.csprojAssemblyReference.cache
+C:\Assessment2\InterviewAssessment\obj\Debug\MainWindow.baml
+C:\Assessment2\InterviewAssessment\obj\Debug\View\AddEntityDialog.baml
+C:\Assessment2\InterviewAssessment\obj\Debug\MainWindow.g.cs
+C:\Assessment2\InterviewAssessment\obj\Debug\View\AddEntityDialog.g.cs
+C:\Assessment2\InterviewAssessment\obj\Debug\App.g.cs
+C:\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor_MarkupCompile.cache
+C:\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor.g.resources
+C:\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor.Properties.Resources.resources
+C:\Assessment2\InterviewAssessment\obj\Debug\InterviewAssessment.csproj.GenerateResource.cache
+C:\Assessment2\InterviewAssessment\obj\Debug\InterviewAssessment.csproj.CoreCompileInputs.cache
+C:\Assessment2\InterviewAssessment\obj\Debug\InterviewAssessment.csproj.CopyComplete
+C:\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor.exe
+C:\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\DomainModelEditor.exe.config
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\DomainModelEditor.exe
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\DomainModelEditor.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\Autofac.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\EntityFramework.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.DataAccess.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.Infrastructure.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.DataAccess.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.DataAccess.dll.config
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\InterviewAssessment.Infrastructure.dll.config
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\Autofac.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\EntityFramework.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\InterviewAssessment.csprojAssemblyReference.cache
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\MainWindow.baml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\View\AddEntityDialog.baml
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\MainWindow.g.cs
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\View\AddEntityDialog.g.cs
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\App.g.cs
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor_MarkupCompile.cache
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor.g.resources
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor.Properties.Resources.resources
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\InterviewAssessment.csproj.GenerateResource.cache
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\InterviewAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\InterviewAssessment.csproj.CopyComplete
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor.exe
+C:\Users\Cipri\Desktop\Assessment2\InterviewAssessment\obj\Debug\DomainModelEditor.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\DomainModelEditor.exe.config
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\DomainModelEditor.exe
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\DomainModelEditor.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\Autofac.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\EntityFramework.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\InterviewAssessment.DataAccess.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\InterviewAssessment.Infrastructure.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\InterviewAssessment.DataAccess.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\InterviewAssessment.DataAccess.dll.config
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\InterviewAssessment.Infrastructure.pdb
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\InterviewAssessment.Infrastructure.dll.config
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\Autofac.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\EntityFramework.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\InterviewAssessment.csprojAssemblyReference.cache
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\MainWindow.baml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\View\AddEntityDialog.baml
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\MainWindow.g.cs
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\View\AddEntityDialog.g.cs
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\App.g.cs
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\DomainModelEditor_MarkupCompile.cache
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\DomainModelEditor.g.resources
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\DomainModelEditor.Properties.Resources.resources
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\InterviewAssessment.csproj.GenerateResource.cache
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\InterviewAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\InterviewAssessment.csproj.CopyComplete
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\DomainModelEditor.exe
+C:\Users\Cipri\Desktop\Assessment2 - Copy\InterviewAssessment\obj\Debug\DomainModelEditor.pdb
